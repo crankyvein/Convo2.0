@@ -1,0 +1,8 @@
+.textfield-container {
+  display: flex;
+  position: relative;
+}
+.textfield-textinput {
+  font-size: 0.75rem;
+  border-color: #595959;
+}
